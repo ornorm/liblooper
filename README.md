@@ -62,8 +62,8 @@ const PAUSE_CMD = 0xffddcd;
 const RESUME_CMD = 0xffddce;
 const EXIT_CMD = 0xffddde;
 
-// this create an instanceof MessageHandler that run in the loop
-// All parameters accepted by a MessageHandler are accepted LoopHandler's
+// this create an instance of MessageLooper that run in the loop
+// All parameters accepted by a MessageHandler are accepted by MessageLooper's
 let ML = Looper.createLoopHandler({
     
     handleMessage(msg) {
