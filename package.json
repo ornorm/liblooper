@@ -1,0 +1,25 @@
+{
+  "name": "liblooper",
+  "version": "1.0.0",
+  "description": "Looper implementation for use in conjonction with the HJS-MESSAGE messaging API. This is the browser version of the ",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/liblooper.git"
+  },
+  "keywords": [
+    "Looper"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/liblooper/issues"
+  },
+  "homepage": "https://github.com/ornorm/liblooper#readme"
+}
