@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ornorm/liblooper/issues"
   },
-  "homepage": "https://github.com/ornorm/liblooper#readme"
+  "homepage": "https://github.com/ornorm/liblooper#readme",
+  "dependencies": {
+    "hjs-message": "^1.0.4"
+  }
 }
