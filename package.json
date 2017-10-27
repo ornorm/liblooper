@@ -14,7 +14,8 @@
     "url": "git+https://github.com/ornorm/liblooper.git"
   },
   "keywords": [
-    "Looper"
+    "Looper",
+    "MessageLooper"
   ],
   "author": "Aime Biendo <abiendo@gmail.com>",
   "license": "MIT",
